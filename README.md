@@ -20,32 +20,32 @@ High School- Dr. Khastagir Government Girls’ High School- Chittagong, Banglade
 Programming & Technical Knowledge: C, Java, R Programming, Python, SQL, Html.
 
 ### WORK EXPERIENCE:
-Instructor Teaching Assistant(TA)- Asian University For Women                                                                            Spring 2024
+Instructor Teaching Assistant(TA)- Asian University For Women                                                                                                             Spring 2024
 Teaching assistant of Computer Literacy under Miss Kadijatul Kubra
-Tak: Taking 2 classes per week, making lectures, checking papers, Conducting group & individual discussions,
+Taks: Taking 2 classes per week, making lectures, checking papers, Conducting group & individual discussions,
 
 
-Teaching Assistant(TA)- Asian University For Women                                                                                      Spring 2024
+Teaching Assistant(TA)- Asian University For Women                                                                                                                         Spring 2024
 Teaching assistant of Calculus-1 under sir Md Farhad Uddin.
 Task: Assisting in Math covered in class, Conducting group discussions and helping individuals with extra care and time.
 Class Size: 35 students per section.
 
-Teaching Assistant(TA)- Asian University For Women                                                                                      Fall 2023
+Teaching Assistant(TA)- Asian University For Women                                                                                                                                 Fall 2023
 Teaching assistant of CS50 course( Introduction to Computer Science by Harvard University) under professor Lutfun Nahar.  
 Task: Assisting with Lectures, Holding Office Hours, helping in Labs, Providing Code Reviews, Assisting in Course Materials Development, helping in installing software, invigilating in exams, helping in final projects and Monitoring Academic Integrity. 
 Class Size: 30 students per section.
 
-Teaching Assistant(TA)- Asian University For Women                                                                                     Spring 2023
+Teaching Assistant(TA)- Asian University For Women                                                                                                                                   Spring 2023
 Teaching assistant of CS50 course( Introduction to Computer Science by Harvard University) under professor Lutfun Nahar.
 Task: Assisting with Lectures, Holding Office Hours, helping in Labs, Providing Code Reviews, Assisting in Course Materials Development, helping in installing software, invigilating in exams, helping in final projects and Monitoring Academic Integrity.
 Class Size: 30 students per section.
 
-Teaching Assistant(TA)- Asian University For Women                                                                                      Summer 2023
+Teaching Assistant(TA)- Asian University For Women                                                                                                                                    Summer 2023
 Teaching assistant of Calculus-1 under Sir Md Farhad Uddin.
 Task: Assisting in Math covered in class, Conducting group discussions, checking  taking individual sessions, and helping individuals with extra care and time.
 Class Size: 35 students per section.
 
-Teaching Assistant(TA)- Asian University For Women                                                                                    Spring 2023
+Teaching Assistant(TA)- Asian University For Women                                                                                                                                   Spring 2023
 Teaching assistant of Precalculus for Pre-UG students in AUW Learning Center under sir Noman Uddin 
 Task: Covering any math topic, clearing math basics and taking individual & group sessions.
 Class size: 3-5 students per section
