@@ -57,11 +57,12 @@ Class size: 3-5 students per section
       Task:    Creative Visuals- Create visually appealing graphics and videos to enhance the overall content strategy.
                Social Media Management: Identify target audiences and tailor content to resonate with them.
                 Analytics and Performance Tracking- Analyze data to make informed decisions and optimize future content strategies.
+                
  Public Relations Manager- AUW Research Club    
- 
   Task:          Idea innovation & graphics
                  Internal & Strategic Communication
                  Media & event management
+                 
   Public Relations Manager and Editor - AUW Debating Society  
   
       Task:     Event idea innovation
