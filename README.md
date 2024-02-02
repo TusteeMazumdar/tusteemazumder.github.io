@@ -2,18 +2,17 @@
 
 ### EDUCATION
 
-Asian University for Women (AUW) – Chittagong, Bangladesh                                                            2021 – 2025                                       Bachelor of Science, Computer Science & minoring in Mathematics.
+Asian University for Women (AUW) – Chittagong, Bangladesh                                                        
+Bachelor of Science, Computer Science & minoring in Mathematics.
 ● Undergrade achievement: CGPA 3.80/4.00 
 
 University of Tokyo – Tokyo, Japan    
-
 Spring Exchange Programme, (Migration, Immigration & Refuges)
 
-College– Govt. Hazi Mohammad Mohsin College -Chittagong, Bangladesh                                                  2019 – 2021  
+College– Govt. Hazi Mohammad Mohsin College -Chittagong, Bangladesh                                                 
 ● College achievement: GPA: 5.00/5.00 
 
-High School- Dr. Khastagir Government Girls’ High School- Chittagong, Bangladesh                                     2013-2019
-
+High School- Dr. Khastagir Government Girls’ High School- Chittagong, Bangladesh                                 
 ● High School achievement: GPA : 5.00/5.00 
 
 ### SKILLS:
