@@ -52,12 +52,14 @@ Class size: 3-5 students per section
 
 ### EXTRACURRICULAR ACTIVITIES
 
- Creative and promotional Content creator of - Asian University For Women                                                         
-      Task:  Creative Visuals- Create visually appealing graphics and videos to enhance the overall content strategy.
-            Social Media Management: Identify target audiences and tailor content to resonate with them.
-            Analytics and Performance Tracking- Analyze data to make informed decisions and optimize future content strategies.
+ Creative and promotional Content creator of - Asian University For Women    
+ 
+      Task:    Creative Visuals- Create visually appealing graphics and videos to enhance the overall content strategy.
+               Social Media Management: Identify target audiences and tailor content to resonate with them.
+                Analytics and Performance Tracking- Analyze data to make informed decisions and optimize future content strategies.
 
- Public Relations Manager- AUW Research Club                                                                                                                                                                   
+ Public Relations Manager- AUW Research Club    
+ 
   Task:          Idea innovation & graphics
                  Internal & Strategic Communication
                  Media & event management
