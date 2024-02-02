@@ -4,6 +4,7 @@
 
 Asian University for Women (AUW) – Chittagong, Bangladesh                                                        
 Bachelor of Science, Computer Science & minoring in Mathematics.
+
 ● Undergrade achievement: CGPA 3.80/4.00 
 
 University of Tokyo – Tokyo, Japan    
